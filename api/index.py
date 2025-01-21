@@ -50,4 +50,4 @@ def complete_task(task_id):
 
 if __name__ == '__main__':
     db()
-    app.run(debug=True)
+    app.run()
